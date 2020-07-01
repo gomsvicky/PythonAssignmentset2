@@ -1,0 +1,15 @@
+import math
+x = float(input("Enter a value for x : "))
+y = float(input("Enter a value for Y : "))
+
+print("*******Trigonometric*******")
+print("asin value of x : ", math.asin(x))
+print("acos value of x : ", math.acos(x))
+print("atan value of x : ", math.atan(x))
+print("atan2 value of x : ", math.atan2(x, y))
+print("sin value of x : ", math.sin(x))
+print("cos value of x : ", math.cos(x))
+print("tan value of x : ", math.tan(x))
+print("hypot value of x : ", math.hypot(x, y))
+print("degress value of x : ", math.degrees(x))
+print("radians value of x : ", math.radians(x))
